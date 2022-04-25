@@ -1,0 +1,35 @@
+/*for the main page and general*/
+
+h1{
+    background: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h2, h3{
+    background: lightblue;
+    color: darkblue;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.links{
+    color: red;
+    text-align: center;
+}
+
+p{
+    font-family: "Times New Roman", sans-serif;
+}
